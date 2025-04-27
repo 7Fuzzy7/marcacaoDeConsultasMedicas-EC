@@ -3,7 +3,8 @@ import styled from 'styled-components/native';
 import { Button, Input, Text } from 'react-native-elements';
 import { Platform, View, TouchableOpacity } from 'react-native';
 import theme from '../styles/theme';
-import { Doctor } from '../types';
+import { Appointment } from '../types/appointments';
+import { Doctor } from '../types/doctors';
 
 const doctors: Doctor[] = [
    {
