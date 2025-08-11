@@ -1,28 +1,21 @@
 {
   "expo": {
-    "name": "marcacaoDeConsultasMedicas-EC",
-    "slug": "marcacaoDeConsultasMedicas-EC",
+    "name": "marcacaoDeConsultasMedicas",
+    "slug": "marcacaoDeConsultasMedicas",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+      "package": "com.hetec.marcacaoDeConsultasMedicas"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "extra": {
+      "eas": {
+        "projectId": "a7247edb-c9a3-4a05-a280-bad86267f405"
+      }
     }
   }
 }
