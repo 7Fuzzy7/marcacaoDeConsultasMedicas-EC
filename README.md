@@ -126,10 +126,16 @@ Para contribuir com o projeto:
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Autores
-
+## Professores
 - **Professor Hete Caetano** - [hete.caetano@fiap.com.br](mailto:hete.caetano@fiap.com.br)
-
+  
+## Alunos
+- **Pedro Martins** - RM98663
+- **Murilo Pomin** - RM99683
+- **Daniel Menezes** - RM551398
+- **Luiz Augusto Melki** - RM552053
+- **Gabriel Taboada** - RM97957
+  
 ## Agradecimentos
 
 - [React Native Community](https://reactnative.dev/help)
